@@ -1,6 +1,8 @@
 # interpretable_machine_learning
-related paper: Using Decision Tree as Local Interpretable Model in Autoencoder-based LIME
-references:
+
+Related paper: Using Decision Tree as Local Interpretable Model in Autoencoder-based LIME
+
+References:
 
 https://www.kaggle.com/rspadim/simple-denoise-autoencoder-with-keras
 
