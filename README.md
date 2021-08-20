@@ -2,7 +2,9 @@
 
 Related paper: Using Decision Tree as Local Interpretable Model in Autoencoder-based LIME
 
-References:
+All of the files used by humans for interpretability evaluation are in the zip file (interpretability_test.rar).
+
+Link of codes and APIs:
 
 https://www.kaggle.com/rspadim/simple-denoise-autoencoder-with-keras
 
